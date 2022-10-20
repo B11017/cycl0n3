@@ -1,0 +1,4 @@
+Please read.
+
+
+This software's code IS NOT open source. Meaning that if you want to get the project's code, you'd have to wait until a at least usable build version.
